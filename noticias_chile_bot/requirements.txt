@@ -1,0 +1,10 @@
+feedparser
+requests
+tweepy
+gspread
+oauth2client
+transformers
+torch
+python-dotenv
+schedule
+pillow
